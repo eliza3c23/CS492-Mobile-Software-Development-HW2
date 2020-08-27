@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Connected Weather</string>
+    <string name="loading_error_message">Unable to run query. Please check internet connection.</string>
+</resources>
